@@ -1,4 +1,8 @@
+
+<link rel="stylesheet" href="./stylesheets/css/bradley_cooper.css">
+
 # Playlist Static Comp Challenge
+
 
 ## Specification
 
